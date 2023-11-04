@@ -40,6 +40,10 @@ Once you have set up the development environment using Dev Containers, you can w
 
 Feel free to explore and run the code snippets provided in the repository. You can build and test them in the Dev Container for a smooth development experience.
 
+ ## Scripts
+
+ There's a `scripts` folder in the repository that contains some scripts for building and running the code. You can find more information about the scripts in the [scripts README](scripts/README.md).
+
 
 ## Contribution
 Contributions to this repository are not the primary focus. However, if you discover issues or have suggestions for improvements, please feel free to create an issue or a pull request.
